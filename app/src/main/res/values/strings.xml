@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ZaiVon</string>
+    <string name="games">Играть</string>
+    <string name="todo">TODO</string>
+    <string name="fb">Варианты Ответов</string>
+    <string name="f1">Миллиард,Милионер,Лимон</string>
+    <string name="f2">1.Миллиард,Милионер,Лимон.</string>
+    <string name="f3">ПОДСКАЗКИ</string>
+    <string name="f4">2.Длина,Ширина,Отрезок.</string>
+    <string name="f5">3.Соробан,Абак,Барак.</string>
+    <string name="f6">4.Начало,Середина,Конец.</string>
+    <string name="f7">5.Цифра,Буква,Точка.</string>
+    <string name="f8">6.Арифметика,Алгебра,Геометрия.</string>
+    <string name="g9">7.Треугольник,Квадрат,Круг.</string>
+    <string name="g1">Назад</string>
+    <string name="l1">1</string>
+    <string name="l2">2</string>
+    <string name="l3">3</string>
+    <string name="l4">4</string>
+    <string name="l5">5</string>
+    <string name="l6">6</string>
+    <string name="l7">7</string>
+    <string name="n_1_1000">1.Назвать число,содержащее 1000 миллионов.</string>
+    <string name="n_2">2.Как по-другому называется расстояние между концами отрезка?</string>
+    <string name="n_3">3.Как называется счёты в древности?</string>
+    <string name="n_4_m_mn">4.Как называется точка M для отрезка MN?</string>
+    <string name="n_5">5.Для записи чисел употребляется..; одна из них называется?</string>
+    <string name="n_6">6.Раздел математики,который изучает свойства чисел и действия над ними.</string>
+    <string name="n_7">7.Фугура,состоящая из трёх точек и отрезков,соединяющих эти точки.</string>
+    <string name="n_1_3">Выбрать 1 из 3 слов</string>
+
+
+</resources>
